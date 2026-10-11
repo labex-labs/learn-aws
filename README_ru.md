@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Бесплатный практический учебный маршрут с пошаговым освоением навыков.</strong></p>
 
-<p align="center"><img alt="Курсы: 18" src="https://img.shields.io/badge/%D0%9A%D1%83%D1%80%D1%81%D1%8B-18-2563eb?style=flat-square"> <img alt="Проекты: 0" src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-0-7c3aed?style=flat-square"> <img alt="Лаборатории: 5" src="https://img.shields.io/badge/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B8-5-0f766e?style=flat-square"> <img alt="Навыки: 86" src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="Курсы: 24" src="https://img.shields.io/badge/%D0%9A%D1%83%D1%80%D1%81%D1%8B-24-2563eb?style=flat-square"> <img alt="Проекты: 0" src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-0-7c3aed?style=flat-square"> <img alt="Лаборатории: 5" src="https://img.shields.io/badge/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B8-5-0f766e?style=flat-square"> <img alt="Навыки: 86" src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/ru/learn/aws"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-16a34a?style=for-the-badge" alt="Начать обучение"></a></p>
 
@@ -171,6 +171,54 @@
   <sub>Начинающий · Практических лабораторий: 5</sub><br><br>
   Свяжите домен с приложением, доставляйте закрытое содержимое S3 через CloudFront, управляйте кэшем и проверяйте HTTPS.<br><br>
   <a href="https://labex.io/ru/courses/aws-dns-and-content-delivery"><strong>Начать курс →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png?lang=ru" alt="Контейнеры AWS для начинающих" width="100%"></a><br><br>
+  <strong>19. <a href="https://labex.io/ru/courses/aws-containers-for-beginners">Контейнеры AWS для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 6</sub><br><br>
+  Соберите и опубликуйте образы ECR, запускайте приложения ECS/Fargate, поддерживайте здоровье сервиса, разделяйте роли и восстанавливайте версии.<br><br>
+  <a href="https://labex.io/ru/courses/aws-containers-for-beginners"><strong>Начать курс →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png?lang=ru" alt="Развертывание и восстановление контейнерного приложения с AWS" width="100%"></a><br><br>
+  <strong>20. <a href="https://labex.io/ru/courses/deliver-and-recover-a-container-application-with-aws">Развертывание и восстановление контейнерного приложения с AWS</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 3</sub><br><br>
+  Разверните сервис из шаблона, восстановите неудачный релиз и пересоздайте изолированную среду в трех независимых проектах AWS.<br><br>
+  <a href="https://labex.io/ru/courses/deliver-and-recover-a-container-application-with-aws"><strong>Начать курс →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png?lang=ru" alt="AWS EFS для начинающих" width="100%"></a><br><br>
+  <strong>21. <a href="https://labex.io/ru/courses/aws-efs-for-beginners">AWS EFS для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 4</sub><br><br>
+  Настройте общие файлы EFS, корни и POSIX-идентичности точек доступа, исправьте подключения и несогласованные загрузки.<br><br>
+  <a href="https://labex.io/ru/courses/aws-efs-for-beginners"><strong>Начать курс →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png?lang=ru" alt="AWS ElastiCache для начинающих" width="100%"></a><br><br>
+  <strong>22. <a href="https://labex.io/ru/courses/aws-elasticache-for-beginners">AWS ElastiCache для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 4</sub><br><br>
+  Подключите Valkey к приложению товаров, обновляйте цены с TTL и инвалидацией и используйте ограниченное ожидание с обращением к источнику.<br><br>
+  <a href="https://labex.io/ru/courses/aws-elasticache-for-beginners"><strong>Начать курс →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png?lang=ru" alt="AWS Athena и Glue для начинающих" width="100%"></a><br><br>
+  <strong>23. <a href="https://labex.io/ru/courses/aws-athena-and-glue-for-beginners">AWS Athena и Glue для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 5</sub><br><br>
+  Опишите продажи в Glue, запрашивайте данные S3 через Athena, регистрируйте месячные разделы и диагностируйте пропущенный месяц.<br><br>
+  <a href="https://labex.io/ru/courses/aws-athena-and-glue-for-beginners"><strong>Начать курс →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ru/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="AWS Bedrock для начинающих" width="100%"></a><br><br>
+  <strong>24. <a href="https://labex.io/ru/courses/aws-bedrock-for-beginners">AWS Bedrock для начинающих</a></strong><br>
+  <sub>Начинающий · Практических лабораторий: 4</sub><br><br>
+  Создавайте и проверяйте ответы поддержки, проверяйте сводки инцидентов и добавляйте ограниченные запросы Bedrock в приложение Python.<br><br>
+  <a href="https://labex.io/ru/courses/aws-bedrock-for-beginners"><strong>Начать курс →</strong></a>
 </td>
 </tr>
 </table>

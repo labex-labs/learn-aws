@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Ein kostenloser, praxisnaher Lernpfad, der Schritt für Schritt durch echte Übungen führt.</strong></p>
 
-<p align="center"><img alt="Kurse: 18" src="https://img.shields.io/badge/Kurse-18-2563eb?style=flat-square"> <img alt="Projekte: 0" src="https://img.shields.io/badge/Projekte-0-7c3aed?style=flat-square"> <img alt="Labs: 5" src="https://img.shields.io/badge/Labs-5-0f766e?style=flat-square"> <img alt="Fähigkeiten: 86" src="https://img.shields.io/badge/F%C3%A4higkeiten-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="Kurse: 24" src="https://img.shields.io/badge/Kurse-24-2563eb?style=flat-square"> <img alt="Projekte: 0" src="https://img.shields.io/badge/Projekte-0-7c3aed?style=flat-square"> <img alt="Labs: 5" src="https://img.shields.io/badge/Labs-5-0f766e?style=flat-square"> <img alt="Fähigkeiten: 86" src="https://img.shields.io/badge/F%C3%A4higkeiten-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/de/learn/aws"><img src="https://img.shields.io/badge/Jetzt%20lernen-Kostenlos-16a34a?style=for-the-badge" alt="Jetzt lernen"></a></p>
 
@@ -171,6 +171,54 @@ Beginne mit AWS-Grundlagen, Speicher und Berechtigungen, dann lerne Netzwerke, R
   <sub>Anfänger · 5 praktische Labs</sub><br><br>
   Verbinde einen Domainnamen mit einer Anwendung, liefere private S3-Inhalte mit CloudFront, steuere Cache-Updates und prüfe HTTPS.<br><br>
   <a href="https://labex.io/de/courses/aws-dns-and-content-delivery"><strong>Kurs starten →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/de/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png?lang=de" alt="AWS-Container für Einsteiger" width="100%"></a><br><br>
+  <strong>19. <a href="https://labex.io/de/courses/aws-containers-for-beginners">AWS-Container für Einsteiger</a></strong><br>
+  <sub>Anfänger · 6 praktische Labs</sub><br><br>
+  Baue und veröffentliche ECR-Images, betreibe ECS/Fargate-Anwendungen, prüfe Servicezustand, trenne Rollen und stelle Versionen wieder her.<br><br>
+  <a href="https://labex.io/de/courses/aws-containers-for-beginners"><strong>Kurs starten →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/de/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png?lang=de" alt="Eine Containeranwendung mit AWS bereitstellen und wiederherstellen" width="100%"></a><br><br>
+  <strong>20. <a href="https://labex.io/de/courses/deliver-and-recover-a-container-application-with-aws">Eine Containeranwendung mit AWS bereitstellen und wiederherstellen</a></strong><br>
+  <sub>Anfänger · 3 praktische Labs</sub><br><br>
+  Stelle einen Dienst aus einer Vorlage bereit, repariere eine fehlerhafte Veröffentlichung und baue eine isolierte Umgebung in drei unabhängigen AWS-Projekten neu auf.<br><br>
+  <a href="https://labex.io/de/courses/deliver-and-recover-a-container-application-with-aws"><strong>Kurs starten →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/de/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png?lang=de" alt="AWS EFS für Einsteiger" width="100%"></a><br><br>
+  <strong>21. <a href="https://labex.io/de/courses/aws-efs-for-beginners">AWS EFS für Einsteiger</a></strong><br>
+  <sub>Anfänger · 4 praktische Labs</sub><br><br>
+  Teile Dateien mit EFS, konfiguriere Zugriffspunktverzeichnisse und POSIX-Identitäten und repariere Mounts und uneinheitliche Uploads.<br><br>
+  <a href="https://labex.io/de/courses/aws-efs-for-beginners"><strong>Kurs starten →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/de/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png?lang=de" alt="AWS ElastiCache für Einsteiger" width="100%"></a><br><br>
+  <strong>22. <a href="https://labex.io/de/courses/aws-elasticache-for-beginners">AWS ElastiCache für Einsteiger</a></strong><br>
+  <sub>Anfänger · 4 praktische Labs</sub><br><br>
+  Verbinde Valkey mit einer Produktanwendung, aktualisiere Preise mit TTL und Invalidierung und nutze begrenzte Wartezeiten mit Datenbank-Fallback.<br><br>
+  <a href="https://labex.io/de/courses/aws-elasticache-for-beginners"><strong>Kurs starten →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/de/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png?lang=de" alt="AWS Athena und Glue für Anfänger" width="100%"></a><br><br>
+  <strong>23. <a href="https://labex.io/de/courses/aws-athena-and-glue-for-beginners">AWS Athena und Glue für Anfänger</a></strong><br>
+  <sub>Anfänger · 5 praktische Labs</sub><br><br>
+  Katalogisiere Verkaufsdateien mit Glue, frage S3 mit Athena ab, registriere Monatspartitionen und diagnostiziere einen fehlenden Monat.<br><br>
+  <a href="https://labex.io/de/courses/aws-athena-and-glue-for-beginners"><strong>Kurs starten →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/de/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="AWS Bedrock für Anfänger" width="100%"></a><br><br>
+  <strong>24. <a href="https://labex.io/de/courses/aws-bedrock-for-beginners">AWS Bedrock für Anfänger</a></strong><br>
+  <sub>Anfänger · 4 praktische Labs</sub><br><br>
+  Erzeuge und prüfe Supportantworten, validiere Vorfallzusammenfassungen und ergänze eine Python-Anwendung um begrenzte Bedrock-Anfragen.<br><br>
+  <a href="https://labex.io/de/courses/aws-bedrock-for-beginners"><strong>Kurs starten →</strong></a>
 </td>
 </tr>
 </table>

@@ -8,7 +8,7 @@
 
 <p align="center"><strong>一条免费、实用、循序渐进的学习路径，用真实动手练习掌握技能。</strong></p>
 
-<p align="center"><img alt="课程: 18" src="https://img.shields.io/badge/%E8%AF%BE%E7%A8%8B-18-2563eb?style=flat-square"> <img alt="项目: 0" src="https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-0-7c3aed?style=flat-square"> <img alt="实验: 5" src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-5-0f766e?style=flat-square"> <img alt="技能: 86" src="https://img.shields.io/badge/%E6%8A%80%E8%83%BD-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="课程: 24" src="https://img.shields.io/badge/%E8%AF%BE%E7%A8%8B-24-2563eb?style=flat-square"> <img alt="项目: 0" src="https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-0-7c3aed?style=flat-square"> <img alt="实验: 5" src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-5-0f766e?style=flat-square"> <img alt="技能: 86" src="https://img.shields.io/badge/%E6%8A%80%E8%83%BD-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/zh/learn/aws"><img src="https://img.shields.io/badge/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0-%E5%85%8D%E8%B4%B9-16a34a?style=for-the-badge" alt="开始学习"></a></p>
 
@@ -171,6 +171,54 @@
   <sub>初级 · 5 个动手实验</sub><br><br>
   将域名连接到应用，通过 CloudFront 分发私有 S3 内容，控制缓存更新并验证 HTTPS。<br><br>
   <a href="https://labex.io/zh/courses/aws-dns-and-content-delivery"><strong>开始课程 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png?lang=zh" alt="AWS 容器入门" width="100%"></a><br><br>
+  <strong>19. <a href="https://labex.io/zh/courses/aws-containers-for-beginners">AWS 容器入门</a></strong><br>
+  <sub>初级 · 6 个动手实验</sub><br><br>
+  构建并发布 ECR 镜像，使用 ECS 和 Fargate 运行应用，维持服务健康，隔离角色权限并恢复故障版本。<br><br>
+  <a href="https://labex.io/zh/courses/aws-containers-for-beginners"><strong>开始课程 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png?lang=zh" alt="使用 AWS 交付与恢复容器应用" width="100%"></a><br><br>
+  <strong>20. <a href="https://labex.io/zh/courses/deliver-and-recover-a-container-application-with-aws">使用 AWS 交付与恢复容器应用</a></strong><br>
+  <sub>初级 · 3 个动手实验</sub><br><br>
+  通过三个独立 AWS 项目挑战，从模板交付容器服务、恢复故障版本并重建隔离环境。<br><br>
+  <a href="https://labex.io/zh/courses/deliver-and-recover-a-container-application-with-aws"><strong>开始课程 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png?lang=zh" alt="AWS EFS 入门" width="100%"></a><br><br>
+  <strong>21. <a href="https://labex.io/zh/courses/aws-efs-for-beginners">AWS EFS 入门</a></strong><br>
+  <sub>初级 · 4 个动手实验</sub><br><br>
+  使用 EFS 共享应用文件，设置访问点目录与身份，诊断挂载故障并修复上传不一致。<br><br>
+  <a href="https://labex.io/zh/courses/aws-efs-for-beginners"><strong>开始课程 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png?lang=zh" alt="AWS ElastiCache 入门" width="100%"></a><br><br>
+  <strong>22. <a href="https://labex.io/zh/courses/aws-elasticache-for-beginners">AWS ElastiCache 入门</a></strong><br>
+  <sub>初级 · 4 个动手实验</sub><br><br>
+  为商品应用接入 Valkey 缓存，使用 TTL 与失效保持价格新鲜，并通过有界超时和回源处理缓存故障。<br><br>
+  <a href="https://labex.io/zh/courses/aws-elasticache-for-beginners"><strong>开始课程 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png?lang=zh" alt="AWS Athena 与 Glue 入门" width="100%"></a><br><br>
+  <strong>23. <a href="https://labex.io/zh/courses/aws-athena-and-glue-for-beginners">AWS Athena 与 Glue 入门</a></strong><br>
+  <sub>初级 · 5 个动手实验</sub><br><br>
+  在 Glue 中登记销售文件，使用 Athena 查询 S3 数据，注册月分区、下载结果并诊断遗漏月份。<br><br>
+  <a href="https://labex.io/zh/courses/aws-athena-and-glue-for-beginners"><strong>开始课程 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/zh/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="AWS Bedrock 入门" width="100%"></a><br><br>
+  <strong>24. <a href="https://labex.io/zh/courses/aws-bedrock-for-beginners">AWS Bedrock 入门</a></strong><br>
+  <sub>初级 · 4 个动手实验</sub><br><br>
+  生成并审阅客服回复，验证事件摘要，并为 Python 应用添加有边界的 Bedrock 请求。<br><br>
+  <a href="https://labex.io/zh/courses/aws-bedrock-for-beginners"><strong>开始课程 →</strong></a>
 </td>
 </tr>
 </table>

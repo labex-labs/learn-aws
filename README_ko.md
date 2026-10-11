@@ -8,7 +8,7 @@
 
 <p align="center"><strong>실제 실습을 중심으로 단계별로 배우는 무료 실전 학습 경로입니다.</strong></p>
 
-<p align="center"><img alt="강좌: 18" src="https://img.shields.io/badge/%EA%B0%95%EC%A2%8C-18-2563eb?style=flat-square"> <img alt="프로젝트: 0" src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-0-7c3aed?style=flat-square"> <img alt="랩: 5" src="https://img.shields.io/badge/%EB%9E%A9-5-0f766e?style=flat-square"> <img alt="기술: 86" src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="강좌: 24" src="https://img.shields.io/badge/%EA%B0%95%EC%A2%8C-24-2563eb?style=flat-square"> <img alt="프로젝트: 0" src="https://img.shields.io/badge/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-0-7c3aed?style=flat-square"> <img alt="랩: 5" src="https://img.shields.io/badge/%EB%9E%A9-5-0f766e?style=flat-square"> <img alt="기술: 86" src="https://img.shields.io/badge/%EA%B8%B0%EC%88%A0-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/ko/learn/aws"><img src="https://img.shields.io/badge/%ED%95%99%EC%8A%B5%20%EC%8B%9C%EC%9E%91-%EB%AC%B4%EB%A3%8C-16a34a?style=for-the-badge" alt="학습 시작"></a></p>
 
@@ -171,6 +171,54 @@ AWS 기초, 스토리지와 권한에서 시작해 네트워크, 컴퓨팅과 �
   <sub>초급 · 실습 랩 5개</sub><br><br>
   도메인을 앱에 연결하고 CloudFront로 비공개 S3 콘텐츠를 배포하며 캐시 업데이트와 HTTPS를 검증합니다.<br><br>
   <a href="https://labex.io/ko/courses/aws-dns-and-content-delivery"><strong>강좌 시작 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png?lang=ko" alt="AWS 컨테이너 입문" width="100%"></a><br><br>
+  <strong>19. <a href="https://labex.io/ko/courses/aws-containers-for-beginners">AWS 컨테이너 입문</a></strong><br>
+  <sub>초급 · 실습 랩 6개</sub><br><br>
+  ECR 이미지를 빌드·게시하고 ECS와 Fargate에서 실행하며 서비스 상태와 역할 권한을 확인하고 이전 릴리스를 복원합니다.<br><br>
+  <a href="https://labex.io/ko/courses/aws-containers-for-beginners"><strong>강좌 시작 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png?lang=ko" alt="AWS로 컨테이너 애플리케이션 배포 및 복구" width="100%"></a><br><br>
+  <strong>20. <a href="https://labex.io/ko/courses/deliver-and-recover-a-container-application-with-aws">AWS로 컨테이너 애플리케이션 배포 및 복구</a></strong><br>
+  <sub>초급 · 실습 랩 3개</sub><br><br>
+  세 가지 독립 AWS 프로젝트에서 템플릿으로 서비스를 배포하고 실패한 릴리스를 복구하며 격리된 환경을 다시 구축합니다.<br><br>
+  <a href="https://labex.io/ko/courses/deliver-and-recover-a-container-application-with-aws"><strong>강좌 시작 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png?lang=ko" alt="AWS EFS 입문" width="100%"></a><br><br>
+  <strong>21. <a href="https://labex.io/ko/courses/aws-efs-for-beginners">AWS EFS 입문</a></strong><br>
+  <sub>초급 · 실습 랩 4개</sub><br><br>
+  EFS 파일 공유, 액세스 포인트 디렉터리와 POSIX ID를 구성하고 마운트 장애 및 업로드 불일치를 해결합니다.<br><br>
+  <a href="https://labex.io/ko/courses/aws-efs-for-beginners"><strong>강좌 시작 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png?lang=ko" alt="AWS ElastiCache 입문" width="100%"></a><br><br>
+  <strong>22. <a href="https://labex.io/ko/courses/aws-elasticache-for-beginners">AWS ElastiCache 입문</a></strong><br>
+  <sub>초급 · 실습 랩 4개</sub><br><br>
+  상품 애플리케이션에 Valkey를 연결하고 TTL과 무효화로 가격을 갱신하며 제한된 타임아웃과 원본 조회로 캐시 오류를 처리합니다.<br><br>
+  <a href="https://labex.io/ko/courses/aws-elasticache-for-beginners"><strong>강좌 시작 →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png?lang=ko" alt="초보자를 위한 AWS Athena와 Glue" width="100%"></a><br><br>
+  <strong>23. <a href="https://labex.io/ko/courses/aws-athena-and-glue-for-beginners">초보자를 위한 AWS Athena와 Glue</a></strong><br>
+  <sub>초급 · 실습 랩 5개</sub><br><br>
+  Glue에 판매 파일을 등록하고 Athena로 S3 데이터를 조회하며 월별 파티션과 결과 CSV, 누락된 월을 다룹니다.<br><br>
+  <a href="https://labex.io/ko/courses/aws-athena-and-glue-for-beginners"><strong>강좌 시작 →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ko/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="초보자를 위한 AWS Bedrock" width="100%"></a><br><br>
+  <strong>24. <a href="https://labex.io/ko/courses/aws-bedrock-for-beginners">초보자를 위한 AWS Bedrock</a></strong><br>
+  <sub>초급 · 실습 랩 4개</sub><br><br>
+  지원 답변을 생성하고 검토하며, 사고 요약을 검증하고 Python 애플리케이션에 한도가 있는 Bedrock 요청을 추가합니다.<br><br>
+  <a href="https://labex.io/ko/courses/aws-bedrock-for-beginners"><strong>강좌 시작 →</strong></a>
 </td>
 </tr>
 </table>

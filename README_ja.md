@@ -8,7 +8,7 @@
 
 <p align="center"><strong>実践を中心に段階的に学べる、無料の実用的な学習パスです。</strong></p>
 
-<p align="center"><img alt="コース: 18" src="https://img.shields.io/badge/%E3%82%B3%E3%83%BC%E3%82%B9-18-2563eb?style=flat-square"> <img alt="プロジェクト: 0" src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-0-7c3aed?style=flat-square"> <img alt="ラボ: 5" src="https://img.shields.io/badge/%E3%83%A9%E3%83%9C-5-0f766e?style=flat-square"> <img alt="スキル: 86" src="https://img.shields.io/badge/%E3%82%B9%E3%82%AD%E3%83%AB-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="コース: 24" src="https://img.shields.io/badge/%E3%82%B3%E3%83%BC%E3%82%B9-24-2563eb?style=flat-square"> <img alt="プロジェクト: 0" src="https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88-0-7c3aed?style=flat-square"> <img alt="ラボ: 5" src="https://img.shields.io/badge/%E3%83%A9%E3%83%9C-5-0f766e?style=flat-square"> <img alt="スキル: 86" src="https://img.shields.io/badge/%E3%82%B9%E3%82%AD%E3%83%AB-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/ja/learn/aws"><img src="https://img.shields.io/badge/%E5%AD%A6%E7%BF%92%E3%82%92%E5%A7%8B%E3%82%81%E3%82%8B-%E7%84%A1%E6%96%99-16a34a?style=for-the-badge" alt="学習を始める"></a></p>
 
@@ -171,6 +171,54 @@ AWS の基礎、ストレージ、権限から始め、ネットワーク、コ�
   <sub>初級 · 5 件の実践ラボ</sub><br><br>
   ドメイン名をアプリへ接続し、CloudFront で非公開 S3 内容を配信して、キャッシュ更新と HTTPS を検証します。<br><br>
   <a href="https://labex.io/ja/courses/aws-dns-and-content-delivery"><strong>コースを始める →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png?lang=ja" alt="AWS コンテナー入門" width="100%"></a><br><br>
+  <strong>19. <a href="https://labex.io/ja/courses/aws-containers-for-beginners">AWS コンテナー入門</a></strong><br>
+  <sub>初級 · 6 件の実践ラボ</sub><br><br>
+  ECR イメージを構築・公開し、ECS と Fargate で実行してサービスの正常性とロール権限を確認し、以前のリリースを復元します。<br><br>
+  <a href="https://labex.io/ja/courses/aws-containers-for-beginners"><strong>コースを始める →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png?lang=ja" alt="AWS でコンテナーアプリケーションを配信・復元する" width="100%"></a><br><br>
+  <strong>20. <a href="https://labex.io/ja/courses/deliver-and-recover-a-container-application-with-aws">AWS でコンテナーアプリケーションを配信・復元する</a></strong><br>
+  <sub>初級 · 3 件の実践ラボ</sub><br><br>
+  独立した三つの AWS プロジェクトで、テンプレートからサービスを配信し、失敗したリリースを復元して、分離された環境を再構築します。<br><br>
+  <a href="https://labex.io/ja/courses/deliver-and-recover-a-container-application-with-aws"><strong>コースを始める →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png?lang=ja" alt="AWS EFS 入門" width="100%"></a><br><br>
+  <strong>21. <a href="https://labex.io/ja/courses/aws-efs-for-beginners">AWS EFS 入門</a></strong><br>
+  <sub>初級 · 4 件の実践ラボ</sub><br><br>
+  EFS でファイルを共有し、アクセスポイントのルートと POSIX ID を設定して、マウント障害とアップロードの不整合を修復します。<br><br>
+  <a href="https://labex.io/ja/courses/aws-efs-for-beginners"><strong>コースを始める →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png?lang=ja" alt="AWS ElastiCache 入門" width="100%"></a><br><br>
+  <strong>22. <a href="https://labex.io/ja/courses/aws-elasticache-for-beginners">AWS ElastiCache 入門</a></strong><br>
+  <sub>初級 · 4 件の実践ラボ</sub><br><br>
+  商品アプリに Valkey キャッシュを接続し、TTL と無効化で価格を更新し、制限付きタイムアウトとソースへのフォールバックを学びます。<br><br>
+  <a href="https://labex.io/ja/courses/aws-elasticache-for-beginners"><strong>コースを始める →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png?lang=ja" alt="AWS Athena と Glue 入門" width="100%"></a><br><br>
+  <strong>23. <a href="https://labex.io/ja/courses/aws-athena-and-glue-for-beginners">AWS Athena と Glue 入門</a></strong><br>
+  <sub>初級 · 5 件の実践ラボ</sub><br><br>
+  Glue に販売ファイルを登録し、Athena で S3 データを照会して月別パーティション、結果 CSV、欠落した月を学びます。<br><br>
+  <a href="https://labex.io/ja/courses/aws-athena-and-glue-for-beginners"><strong>コースを始める →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/ja/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="初心者のための AWS Bedrock" width="100%"></a><br><br>
+  <strong>24. <a href="https://labex.io/ja/courses/aws-bedrock-for-beginners">初心者のための AWS Bedrock</a></strong><br>
+  <sub>初級 · 4 件の実践ラボ</sub><br><br>
+  サポート返信を生成して確認し、インシデント要約を検証し、Python アプリケーションに上限付きの Bedrock リクエストを追加します。<br><br>
+  <a href="https://labex.io/ja/courses/aws-bedrock-for-beginners"><strong>コースを始める →</strong></a>
 </td>
 </tr>
 </table>

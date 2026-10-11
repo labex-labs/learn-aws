@@ -8,7 +8,7 @@
 
 <p align="center"><strong>A free, practical, step-by-step learning path built around real hands-on work.</strong></p>
 
-<p align="center"><img alt="Courses: 18" src="https://img.shields.io/badge/Courses-18-2563eb?style=flat-square"> <img alt="Projects: 0" src="https://img.shields.io/badge/Projects-0-7c3aed?style=flat-square"> <img alt="Labs: 5" src="https://img.shields.io/badge/Labs-5-0f766e?style=flat-square"> <img alt="Skills: 86" src="https://img.shields.io/badge/Skills-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="Courses: 24" src="https://img.shields.io/badge/Courses-24-2563eb?style=flat-square"> <img alt="Projects: 0" src="https://img.shields.io/badge/Projects-0-7c3aed?style=flat-square"> <img alt="Labs: 5" src="https://img.shields.io/badge/Labs-5-0f766e?style=flat-square"> <img alt="Skills: 86" src="https://img.shields.io/badge/Skills-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/learn/aws"><img src="https://img.shields.io/badge/Start%20Learning-Free-16a34a?style=for-the-badge" alt="Start Learning"></a></p>
 
@@ -171,6 +171,54 @@ Start with AWS foundations, storage, and permissions, then learn networking, com
   <sub>Beginner · 5 hands-on labs</sub><br><br>
   Connect a domain name to an application, deliver private S3 content with CloudFront, control cached updates and verify HTTPS.<br><br>
   <a href="https://labex.io/courses/aws-dns-and-content-delivery"><strong>Start course →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png" alt="AWS Containers for Beginners" width="100%"></a><br><br>
+  <strong>19. <a href="https://labex.io/courses/aws-containers-for-beginners">AWS Containers for Beginners</a></strong><br>
+  <sub>Beginner · 6 hands-on labs</sub><br><br>
+  Build and publish ECR images, run ECS and Fargate apps, maintain service health, separate role permissions and restore a previous release.<br><br>
+  <a href="https://labex.io/courses/aws-containers-for-beginners"><strong>Start course →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png" alt="Deliver and Recover a Container Application with AWS" width="100%"></a><br><br>
+  <strong>20. <a href="https://labex.io/courses/deliver-and-recover-a-container-application-with-aws">Deliver and Recover a Container Application with AWS</a></strong><br>
+  <sub>Beginner · 3 hands-on labs</sub><br><br>
+  Deliver a container service from a template, restore a broken release and rebuild an isolated environment in three independent AWS project challenges.<br><br>
+  <a href="https://labex.io/courses/deliver-and-recover-a-container-application-with-aws"><strong>Start course →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png" alt="AWS EFS for Beginners" width="100%"></a><br><br>
+  <strong>21. <a href="https://labex.io/courses/aws-efs-for-beginners">AWS EFS for Beginners</a></strong><br>
+  <sub>Beginner · 4 hands-on labs</sub><br><br>
+  Share application files with EFS, configure access-point directories and identities, diagnose mount connections and repair inconsistent uploads.<br><br>
+  <a href="https://labex.io/courses/aws-efs-for-beginners"><strong>Start course →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png" alt="AWS ElastiCache for Beginners" width="100%"></a><br><br>
+  <strong>22. <a href="https://labex.io/courses/aws-elasticache-for-beginners">AWS ElastiCache for Beginners</a></strong><br>
+  <sub>Beginner · 4 hands-on labs</sub><br><br>
+  Add a Valkey cache to a product application, keep prices fresh with TTL and invalidation, and recover from cache errors with bounded source fallback.<br><br>
+  <a href="https://labex.io/courses/aws-elasticache-for-beginners"><strong>Start course →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://labex.io/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png" alt="AWS Athena and Glue for Beginners" width="100%"></a><br><br>
+  <strong>23. <a href="https://labex.io/courses/aws-athena-and-glue-for-beginners">AWS Athena and Glue for Beginners</a></strong><br>
+  <sub>Beginner · 5 hands-on labs</sub><br><br>
+  Catalog sales files in Glue, query actual S3 data with Athena, register monthly partitions, download query results and diagnose an omitted month.<br><br>
+  <a href="https://labex.io/courses/aws-athena-and-glue-for-beginners"><strong>Start course →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://labex.io/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="AWS Bedrock for Beginners" width="100%"></a><br><br>
+  <strong>24. <a href="https://labex.io/courses/aws-bedrock-for-beginners">AWS Bedrock for Beginners</a></strong><br>
+  <sub>Beginner · 4 hands-on labs</sub><br><br>
+  Generate and review support replies, validate incident summaries and add bounded Bedrock requests to a Python application.<br><br>
+  <a href="https://labex.io/courses/aws-bedrock-for-beginners"><strong>Start course →</strong></a>
 </td>
 </tr>
 </table>
