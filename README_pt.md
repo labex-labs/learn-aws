@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Uma trilha de aprendizagem gratuita, prática e passo a passo, baseada em experiência real.</strong></p>
 
-<p align="center"><img alt="Cursos: 24" src="https://img.shields.io/badge/Cursos-24-2563eb?style=flat-square"> <img alt="Projetos: 0" src="https://img.shields.io/badge/Projetos-0-7c3aed?style=flat-square"> <img alt="Labs: 5" src="https://img.shields.io/badge/Labs-5-0f766e?style=flat-square"> <img alt="Habilidades: 86" src="https://img.shields.io/badge/Habilidades-86-0891b2?style=flat-square"></p>
+<p align="center"><img alt="Cursos: 25" src="https://img.shields.io/badge/Cursos-25-2563eb?style=flat-square"> <img alt="Projetos: 0" src="https://img.shields.io/badge/Projetos-0-7c3aed?style=flat-square"> <img alt="Labs: 3" src="https://img.shields.io/badge/Labs-3-0f766e?style=flat-square"> <img alt="Habilidades: 86" src="https://img.shields.io/badge/Habilidades-86-0891b2?style=flat-square"></p>
 
 <p align="center"><a href="https://labex.io/pt/learn/aws"><img src="https://img.shields.io/badge/Come%C3%A7ar%20a%20aprender-Gr%C3%A1tis-16a34a?style=for-the-badge" alt="Começar a aprender"></a></p>
 
@@ -33,193 +33,203 @@ Comece com fundamentos de AWS, armazenamento e permissões; avance por redes, co
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-foundations-for-beginners"><img src="https://course-cover.labex.io/aws-foundations-for-beginners.png?lang=pt" alt="Fundamentos da AWS para iniciantes" width="100%"></a><br><br>
   <strong>1. <a href="https://labex.io/pt/courses/aws-foundations-for-beginners">Fundamentos da AWS para iniciantes</a></strong><br>
-  <sub>Iniciante · 5 labs práticos</sub><br><br>
-  Dê seus primeiros passos na AWS executando comandos e observando mudanças nos recursos em AWS View. Aprenda a identificar quem faz a chamada, trabalhar com regiões, encontrar os recursos corretos e organizá-los com tags.<br><br>
+  <sub>Iniciante · 8 labs práticos</sub><br><br>
+  Crie um portfólio com oito laboratórios guiados sobre EC2, publicação, acesso, S3 privado, funções, recuperação, logs e alarmes.<br><br>
   <a href="https://labex.io/pt/courses/aws-foundations-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
 <td width="50%" valign="top">
+  <a href="https://labex.io/pt/courses/aws-resource-management-for-beginners"><img src="https://course-cover.labex.io/aws-resource-management-for-beginners.png?lang=pt" alt="Gerenciamento de recursos da AWS para iniciantes" width="100%"></a><br><br>
+  <strong>2. <a href="https://labex.io/pt/courses/aws-resource-management-for-beginners">Gerenciamento de recursos da AWS para iniciantes</a></strong><br>
+  <sub>Iniciante · 5 labs práticos</sub><br><br>
+  Aprenda a gerenciar recursos com configuração web, Regions e ARNs, filtros e consultas da CLI, tags e uma recuperação independente do inventário.<br><br>
+  <a href="https://labex.io/pt/courses/aws-resource-management-for-beginners"><strong>Iniciar curso →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-s3-for-beginners"><img src="https://course-cover.labex.io/aws-s3-for-beginners.png?lang=pt" alt="AWS S3 para iniciantes" width="100%"></a><br><br>
-  <strong>2. <a href="https://labex.io/pt/courses/aws-s3-for-beginners">AWS S3 para iniciantes</a></strong><br>
+  <strong>3. <a href="https://labex.io/pt/courses/aws-s3-for-beginners">AWS S3 para iniciantes</a></strong><br>
   <sub>Iniciante · 7 labs práticos</sub><br><br>
   Desenvolva uma base prática em Amazon S3 armazenando, organizando, publicando, protegendo e recuperando arquivos de aplicações com a AWS CLI. Pequenos cenários de relatórios conectam operações de armazenamento a…<br><br>
   <a href="https://labex.io/pt/courses/aws-s3-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-iam-for-beginners"><img src="https://course-cover.labex.io/aws-iam-for-beginners.png?lang=pt" alt="AWS IAM para iniciantes" width="100%"></a><br><br>
-  <strong>3. <a href="https://labex.io/pt/courses/aws-iam-for-beginners">AWS IAM para iniciantes</a></strong><br>
+  <strong>4. <a href="https://labex.io/pt/courses/aws-iam-for-beginners">AWS IAM para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Aprenda a conceder a um fluxo de relatórios o acesso necessário e testar a recusa de operações não relacionadas. O AWS Identity and Access Management (IAM) controla qual identidade pode executar uma ação em um recurso.<br><br>
   <a href="https://labex.io/pt/courses/aws-iam-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-vpc-for-beginners"><img src="https://course-cover.labex.io/aws-vpc-for-beginners.png?lang=pt" alt="AWS VPC para iniciantes" width="100%"></a><br><br>
-  <strong>4. <a href="https://labex.io/pt/courses/aws-vpc-for-beginners">AWS VPC para iniciantes</a></strong><br>
+  <strong>5. <a href="https://labex.io/pt/courses/aws-vpc-for-beginners">AWS VPC para iniciantes</a></strong><br>
   <sub>Iniciante · 7 labs práticos</sub><br><br>
   Construa e diagnostique redes com AWS CLI: sub-redes, rotas Internet, grupos de segurança, NAT privado, endpoints S3 e respostas de ACL sem estado.<br><br>
   <a href="https://labex.io/pt/courses/aws-vpc-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-ec2-and-ebs-for-beginners"><img src="https://course-cover.labex.io/aws-ec2-and-ebs-for-beginners.png?lang=pt" alt="AWS EC2 e EBS para iniciantes" width="100%"></a><br><br>
-  <strong>5. <a href="https://labex.io/pt/courses/aws-ec2-and-ebs-for-beginners">AWS EC2 e EBS para iniciantes</a></strong><br>
+  <strong>6. <a href="https://labex.io/pt/courses/aws-ec2-and-ebs-for-beginners">AWS EC2 e EBS para iniciantes</a></strong><br>
   <sub>Iniciante · 7 labs práticos</sub><br><br>
   Inicie e opere servidores EC2, automatize a inicialização, armazene arquivos no EBS, restaure snapshots e acesse o S3 com funções de instância.<br><br>
   <a href="https://labex.io/pt/courses/aws-ec2-and-ebs-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-load-balancing-and-auto-scaling"><img src="https://course-cover.labex.io/aws-load-balancing-and-auto-scaling.png?lang=pt" alt="Balanceamento de carga e Auto Scaling na AWS" width="100%"></a><br><br>
-  <strong>6. <a href="https://labex.io/pt/courses/aws-load-balancing-and-auto-scaling">Balanceamento de carga e Auto Scaling na AWS</a></strong><br>
+  <strong>7. <a href="https://labex.io/pt/courses/aws-load-balancing-and-auto-scaling">Balanceamento de carga e Auto Scaling na AWS</a></strong><br>
   <sub>Iniciante · 5 labs práticos</sub><br><br>
   Distribua solicitações com ALB, diagnostique a integridade dos destinos, substitua servidores com falha e ajuste a capacidade real do EC2 com políticas.<br><br>
   <a href="https://labex.io/pt/courses/aws-load-balancing-and-auto-scaling"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-rds-for-beginners"><img src="https://course-cover.labex.io/aws-rds-for-beginners.png?lang=pt" alt="AWS RDS para iniciantes" width="100%"></a><br><br>
-  <strong>7. <a href="https://labex.io/pt/courses/aws-rds-for-beginners">AWS RDS para iniciantes</a></strong><br>
+  <strong>8. <a href="https://labex.io/pt/courses/aws-rds-for-beginners">AWS RDS para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Conecte um aplicativo de pedidos ao PostgreSQL e pratique SQL, controle de acesso, recuperação de snapshots, réplicas de leitura e diagnóstico.<br><br>
   <a href="https://labex.io/pt/courses/aws-rds-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-application-security-for-beginners"><img src="https://course-cover.labex.io/aws-application-security-for-beginners.png?lang=pt" alt="Segurança de aplicações na AWS para iniciantes" width="100%"></a><br><br>
-  <strong>8. <a href="https://labex.io/pt/courses/aws-application-security-for-beginners">Segurança de aplicações na AWS para iniciantes</a></strong><br>
+  <strong>9. <a href="https://labex.io/pt/courses/aws-application-security-for-beginners">Segurança de aplicações na AWS para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Proteja arquivos, credenciais, configurações e solicitações web da aplicação com controles de segurança da AWS de escopo definido. Conecte cada controle a uma operação permitida e a uma recusa significativa.<br><br>
   <a href="https://labex.io/pt/courses/aws-application-security-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-monitoring-and-auditing-for-beginners"><img src="https://course-cover.labex.io/aws-monitoring-and-auditing-for-beginners.png?lang=pt" alt="Monitoramento e auditoria da AWS para iniciantes" width="100%"></a><br><br>
-  <strong>9. <a href="https://labex.io/pt/courses/aws-monitoring-and-auditing-for-beginners">Monitoramento e auditoria da AWS para iniciantes</a></strong><br>
+  <strong>10. <a href="https://labex.io/pt/courses/aws-monitoring-and-auditing-for-beginners">Monitoramento e auditoria da AWS para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Aprenda a explicar solicitações com falha, medir a saúde de aplicações, observar alarmes e identificar mudanças nos recursos. Use CloudWatch Logs, métricas do CloudWatch e CloudTrail para investigar pequenos incidentes…<br><br>
   <a href="https://labex.io/pt/courses/aws-monitoring-and-auditing-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-cloudformation-for-beginners"><img src="https://course-cover.labex.io/aws-cloudformation-for-beginners.png?lang=pt" alt="AWS CloudFormation para iniciantes" width="100%"></a><br><br>
-  <strong>10. <a href="https://labex.io/pt/courses/aws-cloudformation-for-beginners">AWS CloudFormation para iniciantes</a></strong><br>
+  <strong>11. <a href="https://labex.io/pt/courses/aws-cloudformation-for-beginners">AWS CloudFormation para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Crie modelos reutilizáveis, conecte recursos, revise alterações e preserve dados em cinco laboratórios e um desafio de diagnóstico.<br><br>
   <a href="https://labex.io/pt/courses/aws-cloudformation-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/build-and-operate-a-web-application-with-aws"><img src="https://course-cover.labex.io/build-and-operate-a-web-application-with-aws.png?lang=pt" alt="Construir e operar uma aplicação web com AWS" width="100%"></a><br><br>
-  <strong>11. <a href="https://labex.io/pt/courses/build-and-operate-a-web-application-with-aws">Construir e operar uma aplicação web com AWS</a></strong><br>
+  <strong>12. <a href="https://labex.io/pt/courses/build-and-operate-a-web-application-with-aws">Construir e operar uma aplicação web com AWS</a></strong><br>
   <sub>Iniciante · 3 labs práticos</sub><br><br>
   Implante pedidos privados, repare uma versão falha e restaure banco e relatório em três desafios independentes.<br><br>
   <a href="https://labex.io/pt/courses/build-and-operate-a-web-application-with-aws"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-dynamodb-for-beginners"><img src="https://course-cover.labex.io/aws-dynamodb-for-beginners.png?lang=pt" alt="AWS DynamoDB para iniciantes" width="100%"></a><br><br>
-  <strong>12. <a href="https://labex.io/pt/courses/aws-dynamodb-for-beginners">AWS DynamoDB para iniciantes</a></strong><br>
+  <strong>13. <a href="https://labex.io/pt/courses/aws-dynamodb-for-beginners">AWS DynamoDB para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Construa um pequeno fluxo de dados de pedidos com tabelas do DynamoDB, consultas por cliente e data e índices de status. Proteja gravações contra duplicatas, trate registros que expiram e repare uma consulta que não…<br><br>
   <a href="https://labex.io/pt/courses/aws-dynamodb-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-lambda-for-beginners"><img src="https://course-cover.labex.io/aws-lambda-for-beginners.png?lang=pt" alt="AWS Lambda para iniciantes" width="100%"></a><br><br>
-  <strong>13. <a href="https://labex.io/pt/courses/aws-lambda-for-beginners">AWS Lambda para iniciantes</a></strong><br>
+  <strong>14. <a href="https://labex.io/pt/courses/aws-lambda-for-beginners">AWS Lambda para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Execute e diagnostique funções do AWS Lambda com um processador de cotações e um fluxo de relatórios iniciado por uploads. Conecte código, configuração e permissões de recursos a resultados reais das funções.<br><br>
   <a href="https://labex.io/pt/courses/aws-lambda-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-api-gateway-and-cognito-for-beginners"><img src="https://course-cover.labex.io/aws-api-gateway-and-cognito-for-beginners.png?lang=pt" alt="AWS API Gateway e Cognito para iniciantes" width="100%"></a><br><br>
-  <strong>14. <a href="https://labex.io/pt/courses/aws-api-gateway-and-cognito-for-beginners">AWS API Gateway e Cognito para iniciantes</a></strong><br>
+  <strong>15. <a href="https://labex.io/pt/courses/aws-api-gateway-and-cognito-for-beginners">AWS API Gateway e Cognito para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Construa uma API de pedidos que aceite solicitações validadas, suporte um cliente no navegador e exija login na aplicação para dados privados. Conecte API Gateway, Lambda, DynamoDB e Cognito por meio de solicitações…<br><br>
   <a href="https://labex.io/pt/courses/aws-api-gateway-and-cognito-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-sqs-and-sns-for-beginners"><img src="https://course-cover.labex.io/aws-sqs-and-sns-for-beginners.png?lang=pt" alt="AWS SQS e SNS para iniciantes" width="100%"></a><br><br>
-  <strong>15. <a href="https://labex.io/pt/courses/aws-sqs-and-sns-for-beginners">AWS SQS e SNS para iniciantes</a></strong><br>
+  <strong>16. <a href="https://labex.io/pt/courses/aws-sqs-and-sns-for-beginners">AWS SQS e SNS para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Mantenha tarefas disponíveis quando consumidores estiverem lentos ou falharem, notifique equipes seguintes e proteja resultados de negócio contra entregas repetidas. Aprenda SQS e SNS com um pequeno fluxo de…<br><br>
   <a href="https://labex.io/pt/courses/aws-sqs-and-sns-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-eventbridge-and-step-functions-for-beginners"><img src="https://course-cover.labex.io/aws-eventbridge-and-step-functions-for-beginners.png?lang=pt" alt="AWS EventBridge e Step Functions para iniciantes" width="100%"></a><br><br>
-  <strong>16. <a href="https://labex.io/pt/courses/aws-eventbridge-and-step-functions-for-beginners">AWS EventBridge e Step Functions para iniciantes</a></strong><br>
+  <strong>17. <a href="https://labex.io/pt/courses/aws-eventbridge-and-step-functions-for-beginners">AWS EventBridge e Step Functions para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Encaminhe eventos de pedidos ao consumidor correto e coordene tarefas cujas etapas podem falhar. Aprenda roteamento com EventBridge e fluxos do Step Functions usando mensagens reais de filas, resultados do Lambda e…<br><br>
   <a href="https://labex.io/pt/courses/aws-eventbridge-and-step-functions-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/build-and-operate-a-serverless-application-with-aws"><img src="https://course-cover.labex.io/build-and-operate-a-serverless-application-with-aws.png?lang=pt" alt="Construir e operar uma aplicação sem servidor com AWS" width="100%"></a><br><br>
-  <strong>17. <a href="https://labex.io/pt/courses/build-and-operate-a-serverless-application-with-aws">Construir e operar uma aplicação sem servidor com AWS</a></strong><br>
+  <strong>18. <a href="https://labex.io/pt/courses/build-and-operate-a-serverless-application-with-aws">Construir e operar uma aplicação sem servidor com AWS</a></strong><br>
   <sub>Iniciante · 3 labs práticos</sub><br><br>
   Integre serviços da AWS em uma API privada de pedidos, um consumidor de fila recuperável e um fluxo de relatórios de pedidos. Cada projeto pede que você conecte habilidades já ensinadas e verifique resultados concretos…<br><br>
   <a href="https://labex.io/pt/courses/build-and-operate-a-serverless-application-with-aws"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-dns-and-content-delivery"><img src="https://course-cover.labex.io/aws-dns-and-content-delivery-for-beginners.png?lang=pt" alt="DNS e distribuição de conteúdo na AWS" width="100%"></a><br><br>
-  <strong>18. <a href="https://labex.io/pt/courses/aws-dns-and-content-delivery">DNS e distribuição de conteúdo na AWS</a></strong><br>
+  <strong>19. <a href="https://labex.io/pt/courses/aws-dns-and-content-delivery">DNS e distribuição de conteúdo na AWS</a></strong><br>
   <sub>Iniciante · 5 labs práticos</sub><br><br>
   Conecte um domínio a uma aplicação, distribua conteúdo S3 privado com CloudFront, controle atualizações em cache e verifique HTTPS.<br><br>
   <a href="https://labex.io/pt/courses/aws-dns-and-content-delivery"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-containers-for-beginners"><img src="https://course-cover.labex.io/aws-containers-for-beginners.png?lang=pt" alt="Contêineres AWS para iniciantes" width="100%"></a><br><br>
-  <strong>19. <a href="https://labex.io/pt/courses/aws-containers-for-beginners">Contêineres AWS para iniciantes</a></strong><br>
+  <strong>20. <a href="https://labex.io/pt/courses/aws-containers-for-beginners">Contêineres AWS para iniciantes</a></strong><br>
   <sub>Iniciante · 6 labs práticos</sub><br><br>
   Crie e publique imagens ECR, execute com ECS e Fargate, mantenha serviços saudáveis, separe permissões de funções e recupere versões.<br><br>
   <a href="https://labex.io/pt/courses/aws-containers-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/deliver-and-recover-a-container-application-with-aws"><img src="https://course-cover.labex.io/deliver-and-recover-a-container-application-with-aws.png?lang=pt" alt="Entregar e recuperar uma aplicação em contêineres com AWS" width="100%"></a><br><br>
-  <strong>20. <a href="https://labex.io/pt/courses/deliver-and-recover-a-container-application-with-aws">Entregar e recuperar uma aplicação em contêineres com AWS</a></strong><br>
+  <strong>21. <a href="https://labex.io/pt/courses/deliver-and-recover-a-container-application-with-aws">Entregar e recuperar uma aplicação em contêineres com AWS</a></strong><br>
   <sub>Iniciante · 3 labs práticos</sub><br><br>
   Entregue um serviço a partir de um modelo, recupere uma versão com falha e reconstrua um ambiente isolado em três projetos AWS independentes.<br><br>
   <a href="https://labex.io/pt/courses/deliver-and-recover-a-container-application-with-aws"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-efs-for-beginners"><img src="https://course-cover.labex.io/aws-efs-for-beginners.png?lang=pt" alt="AWS EFS para iniciantes" width="100%"></a><br><br>
-  <strong>21. <a href="https://labex.io/pt/courses/aws-efs-for-beginners">AWS EFS para iniciantes</a></strong><br>
+  <strong>22. <a href="https://labex.io/pt/courses/aws-efs-for-beginners">AWS EFS para iniciantes</a></strong><br>
   <sub>Iniciante · 4 labs práticos</sub><br><br>
   Compartilhe arquivos com EFS, configure raízes e identidades POSIX de pontos de acesso e corrija montagens e uploads inconsistentes.<br><br>
   <a href="https://labex.io/pt/courses/aws-efs-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-elasticache-for-beginners"><img src="https://course-cover.labex.io/aws-elasticache-for-beginners.png?lang=pt" alt="AWS ElastiCache para iniciantes" width="100%"></a><br><br>
-  <strong>22. <a href="https://labex.io/pt/courses/aws-elasticache-for-beginners">AWS ElastiCache para iniciantes</a></strong><br>
+  <strong>23. <a href="https://labex.io/pt/courses/aws-elasticache-for-beginners">AWS ElastiCache para iniciantes</a></strong><br>
   <sub>Iniciante · 4 labs práticos</sub><br><br>
   Conecte Valkey a uma aplicação de produtos, atualize preços com TTL e invalidação e use espera limitada com fallback para a origem.<br><br>
   <a href="https://labex.io/pt/courses/aws-elasticache-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-athena-and-glue-for-beginners"><img src="https://course-cover.labex.io/aws-athena-and-glue-for-beginners.png?lang=pt" alt="AWS Athena e Glue para iniciantes" width="100%"></a><br><br>
-  <strong>23. <a href="https://labex.io/pt/courses/aws-athena-and-glue-for-beginners">AWS Athena e Glue para iniciantes</a></strong><br>
+  <strong>24. <a href="https://labex.io/pt/courses/aws-athena-and-glue-for-beginners">AWS Athena e Glue para iniciantes</a></strong><br>
   <sub>Iniciante · 5 labs práticos</sub><br><br>
   Catalogue vendas com Glue, consulte dados reais do S3 com Athena, registre partições mensais e diagnostique um mês ausente.<br><br>
   <a href="https://labex.io/pt/courses/aws-athena-and-glue-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <a href="https://labex.io/pt/courses/aws-bedrock-for-beginners"><img src="https://course-cover.labex.io/aws-bedrock-for-beginners.png" alt="AWS Bedrock para iniciantes" width="100%"></a><br><br>
-  <strong>24. <a href="https://labex.io/pt/courses/aws-bedrock-for-beginners">AWS Bedrock para iniciantes</a></strong><br>
+  <strong>25. <a href="https://labex.io/pt/courses/aws-bedrock-for-beginners">AWS Bedrock para iniciantes</a></strong><br>
   <sub>Iniciante · 4 labs práticos</sub><br><br>
   Gere e revise respostas de suporte, valide resumos de incidentes e adicione solicitações Bedrock com limites a uma aplicação Python.<br><br>
   <a href="https://labex.io/pt/courses/aws-bedrock-for-beginners"><strong>Iniciar curso →</strong></a>
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
